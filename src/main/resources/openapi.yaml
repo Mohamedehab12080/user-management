@@ -298,7 +298,7 @@ components:
           type: integer
           example: 0
         unpaged:
-          type: boolean
+          type: string
           example: false
         paged:
           type: boolean
